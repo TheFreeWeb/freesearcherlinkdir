@@ -1,0 +1,2 @@
+# freesearcherlinkdir
+Links for FREESEARCHER
