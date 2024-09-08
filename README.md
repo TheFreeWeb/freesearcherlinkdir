@@ -1,2 +1,2 @@
 # freesearcherlinkdir
-Links for FREESEARCHER
+Links for FREESEARCHER and FREESEARCHER (linux)
