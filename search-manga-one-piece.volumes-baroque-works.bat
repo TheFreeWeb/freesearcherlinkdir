@@ -1,3 +1,4 @@
+@echo off
 echo This will download the volumes 13–23 of "One Piece". Do you wish to proceed?
 CHOICE /C YNC /M "Press Y for Yes, N for No or C for Cancel"curl -O https://files.catbox.moe/gh5ll4.cbz
 curl -O https://files.catbox.moe/b2kcta.cbz
